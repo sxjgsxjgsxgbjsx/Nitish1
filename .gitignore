@@ -1,0 +1,22 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Sensitive data
+secrets.py
+config.py
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
